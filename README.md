@@ -11,7 +11,7 @@ Welcome to my repository documenting my journey through Machine Learning! This s
 - [Topics Covered so far](#topics-covered)
   - [1. Linear Regression](#linear-regression)
   - [2. Logistic Regression](#logistic-regression)
-  - [3. Naive Bayes](#Naive Baye)
+  - [3. Naive Bayes](#Naive-Bayes)
   - [4. K-Nearest Neighbour](#KNN)
   
 
